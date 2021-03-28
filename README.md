@@ -5,7 +5,7 @@ Dataset used: Iris dataset imported from sklearn
 
 ## Output of final cluster
 
-<div>
+<div align="center">
   <img src="https://github.com/saniikakulkarni/Gaussian-Mixture-Model-from-scratch/blob/main/Output%20of%20cluster.png" height=700px width=700px />
 </div>
 
