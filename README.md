@@ -1,17 +1,23 @@
 # Gaussian-Mixture-Model-from-scratch
 
-Type of algorithm: Clustering algorithm
+Type of algorithm: Clustering algorithm <br />
 Dataset used: Iris dataset imported from sklearn
+
+## Output of final cluster
+
+<div>
+  <img src="https://github.com/saniikakulkarni/Gaussian-Mixture-Model-from-scratch/blob/main/Output%20of%20cluster.png" height=400px width=400px />
+</div>
 
 ## Requirements:
 
-Jupyter notebook or Google Colab
-Libraries:
-Pandas: https://pandas.pydata.org/docs/getting_started/install.html
-Numpy: https://numpy.org/install/
-Matplotlib: https://matplotlib.org/stable/users/installing.html
-sklearn: https://scikit-learn.org/stable/install.html
-scipy: https://pypi.org/project/scipy/
+Jupyter notebook or Google Colab <br />
+Libraries:<br />
+Pandas: https://pandas.pydata.org/docs/getting_started/install.html <br />
+Numpy: https://numpy.org/install/ <br />
+Matplotlib: https://matplotlib.org/stable/users/installing.html <br />
+sklearn: https://scikit-learn.org/stable/install.html <br />
+scipy: https://pypi.org/project/scipy/ <br />
 
 ## Steps involved:
 
