@@ -24,14 +24,14 @@ scipy: https://pypi.org/project/scipy/ <br />
 ### For Google Colab:
 
 1. Open google colab on any browser.
-2. Upload the file "19BCE1328_Gaussian Mixture Model" in the Google Colab. 
+2. Upload the file "Gaussian_Mixture_Model_from_scratch.ipynb" in the Google Colab. 
 3. Run all the cells in the notebook and view the output.
 4. See the plots to visualize the final results.
 
 ### For Jupyter Notebook:
 
 1. Run the jupyter notebook.
-2. Select the file "19BCE1328_Gaussian Mixture Model" from the location where you saved the file.
+2. Select the file "Gaussian_Mixture_Model_from_scratch.ipynb" from the location where you saved the file.
 3. Install the required packages mentioned above.
 4. Run all the cells in the notebook and view the output.
 5. See the plots to visualize the final results.
