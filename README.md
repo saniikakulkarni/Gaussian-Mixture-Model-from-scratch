@@ -1,11 +1,9 @@
 # Gaussian-Mixture-Model-from-scratch
-#
 
 Type of algorithm: Clustering algorithm
 Dataset used: Iris dataset imported from sklearn
 
 ## Requirements:
-#
 
 Jupyter notebook or Google Colab
 Libraries:
@@ -16,7 +14,6 @@ sklearn: https://scikit-learn.org/stable/install.html
 scipy: https://pypi.org/project/scipy/
 
 ## Steps involved:
-#
 
 ### For Google Colab:
 
